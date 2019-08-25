@@ -1,3 +1,3 @@
-# Balans
+# TSearch
 
-Connecting mental health clients to counsellors
+Simple search API using Typescript, PostgreSQL, Express, and Redis
