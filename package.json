@@ -1,21 +1,21 @@
 {
-  "name": "balans",
+  "name": "tsearch",
   "version": "1.0.0",
-  "description": "Connecting mental health clients to counsellors",
+  "description": "Simple search api in typescript",
   "main": "server.js",
   "scripts": {
     "dev": "tsc-watch --onSuccess \"node ./dist/server.js\""
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/ajibs/balans.git"
+    "url": "git@github.com:Gosilama/TSearch.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/ajibs/balans/issues"
+    "url": "https://github.com/Gosilama/TSearch/issues"
   },
-  "homepage": "https://gitlab.com/ajibs/balans#readme",
+  "homepage": "https://github.com/Gosilama/TSearch#readme",
   "dependencies": {
     "@types/compression": "0.0.36",
     "@types/cors": "^2.8.5",
